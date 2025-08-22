@@ -1,0 +1,13 @@
+name: ReliabilityViewer
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/d0f34c03-98a3-43d7-84a6-d082ac82fa22
+description: Reliability Viewer for Windows displays reliability data for a local or remote computer.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
